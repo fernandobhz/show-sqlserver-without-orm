@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fernandobhz/show-sqlserver-without-orm/issues"
   },
-  "homepage": "https://github.com/fernandobhz/show-sqlserver-without-orm#readme"
+  "homepage": "https://github.com/fernandobhz/show-sqlserver-without-orm#readme",
+  "dependencies": {
+    "mssql": "^7.2.1"
+  }
 }
